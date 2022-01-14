@@ -1,1 +1,3 @@
-# EEP_Master_Thesis_Citation_Recommendation
+# Citation Recommendation
+
+Soon the final code of a citation recommendation algorithm using Sequence Classification will be uploaded here.
