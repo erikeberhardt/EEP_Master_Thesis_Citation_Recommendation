@@ -1,0 +1,12 @@
+archive
+artifact/*.csv
+artifact/*.pkl
+baseline/full_context_peer_read/*.pkl
+baseline/full_context_peer_read/*.csv
+baseline/modified_full_contex_peer_read/*.pkl
+baseline/modified_full_contex_peer_read/*.csv
+baseline/modified_full_contex_peer_read/output_iteration_12
+iterations_eval/*.pkl
+iterations_eval/*.csv
+iterations_eval/output_iteration_10
+thesis/*
